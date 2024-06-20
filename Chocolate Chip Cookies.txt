@@ -1,0 +1,5 @@
+Function ChocolateChipCookies (Flour, Sugar, Brown Sugar, Butter, Eggs, Vanilla, Baking Soda, Salt, Chocolate Chips) {
+
+Mix ingredients AND Drop on baking sheet AND Bake at 350°F for 10-12 minutes
+
+Preparation 10 minutes AND Cooking 15 minutes AND Serve}

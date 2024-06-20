@@ -1,0 +1,12 @@
+Function MainMenu()
+    Choose a dish:
+    SpaghettiCarbonara
+    CaesarSalad
+    ChocolateChipCookies
+    End Function
+
+Function Main()
+    Call MainMenu()
+End Function
+
+Call Main()

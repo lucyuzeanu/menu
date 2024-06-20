@@ -1,0 +1,5 @@
+function SpaghettiCarbonara (Spaghetti, Eggs, Pancetta, Parmesan Cheese, Black Pepper) {
+
+Cook spaghetti AND Cook pancetta AND Mix eggs with cheese AND Combine all AND Add pepper
+
+Preparation 20 minutes AND Serve}

@@ -1,0 +1,5 @@
+function CaesarSalad (Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken - optional) {
+
+Toss lettuce with dressing AND Add croutons and cheese AND Top with chicken.
+
+Preparation 15 minutes AND Serve}
