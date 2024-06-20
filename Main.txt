@@ -1,5 +1,6 @@
 Function MainMenu()
     Choose a dish:
+    PotatoChips
     SpaghettiCarbonara
     CaesarSalad
     ChocolateChipCookies

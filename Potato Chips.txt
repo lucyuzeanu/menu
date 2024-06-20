@@ -1,0 +1,5 @@
+function PotatoChips (Potatoe, Cheese, Oil, Salt, Pepper) {
+
+Chop chips AND Fry chips AND Add cheese AND Add salt OR Add pepper
+
+Preparation 15 minutes AND Serve}
